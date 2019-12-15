@@ -1,0 +1,25 @@
+<header id="header">
+  <div id="header-content" class="width px2">
+    <a id="header-link" href="<%- url_for("/") %>">
+    <% if (theme.customize.logo && theme.customize.logo.enabled) { %>
+      <% if (theme.customize.gravatar.email && theme.customize.logo.gravatar) { %>
+        <div id="logo" style="background-image: url(<%- gravatar(theme.customize.gravatar.email) %>);"></div>
+      <% } else { %>
+        <div id="logo" style="background-image: url(<%- url_for(theme.customize.logo.url) %>);"></div>
+      <% } %>
+    <% } %>
+      <div id="title">
+        <h1><%= config.title %></h1>
+      </div>
+    </a>
+    <div id="nav">
+      <ul>
+        <% for (var i in theme.nav) { %> 
+          <li>
+            <%- link_to(theme.nav[i], i, {external: theme.nav[i].slice(-4) === '.pdf'}) %>
+          </li>
+        <% } %>
+      </ul>
+    </div>   
+  </div>
+</header>

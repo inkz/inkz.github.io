@@ -1,0 +1,49 @@
+nav:
+  About me: /
+  Resume: /vasilii-ermilov.pdf
+
+customize:
+    gravatar:
+        email: 
+    logo:
+        enabled: false
+        width: 50
+        height: 50
+        url: /images/face.jpg
+        gravatar: false
+    # favicon: 
+      # eg. generate with http://realfavicongenerator.net/
+      # desktop:
+        # url: /images/favicon.ico
+        # gravatar: false
+      # android:
+        # url: /images/favicon-192x192.png
+        # gravatar: false
+      # apple:
+        # url: /images/apple-touch-icon.png
+        # gravatar: false
+    social_links:
+        LinkedIn: https://www.linkedin.com/in/vasilii-ermilov/
+        HackerOne: https://hackerone.com/ermilov/
+        Github: https://github.com/inkz
+        Keybase: https://keybase.io/ermilov
+    email: vasilii.a.ermilov@gmail.com
+    show_all_posts: true
+    post_count: 0
+    highlight: pojoaque
+
+# RSS
+rss: false
+
+# Plugins
+plugins:
+    disqus_shortname: # Disqus Comments Shortname
+    google_analytics: UA-154450725-1 # enter the tracking ID for your Google Analytics
+
+# Miscellaneous
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
