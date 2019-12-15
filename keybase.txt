@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ermilov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ermilov.to
+  * I am ermilov (https://keybase.io/ermilov) on keybase.
+  * I have a public key with fingerprint C1BF 94CA A894 95B0 B442  4D8B 789C 9291 0987 E7C8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101254e6ee46181c3b5393680489cff122b00c46475556bbed8bfcc8620fe9091290a",
+      "fingerprint": "c1bf94caa89495b0b4424d8b789c92910987e7c8",
+      "host": "keybase.io",
+      "key_id": "789c92910987e7c8",
+      "kid": "0101254e6ee46181c3b5393680489cff122b00c46475556bbed8bfcc8620fe9091290a",
+      "uid": "cb1182fb0c8283414725842e2a546219",
+      "username": "ermilov"
+    },
+    "service": {
+      "hostname": "ermilov.to",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1576107424,
+  "expire_in": 157680000,
+  "prev": "925f3c458d027da565cb08ab424134495398905f81ec9cf6ff163542ab2586d6",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJrSFRBGF2zhwlmZEaZQVyQINZtZu7M3ZlFK4giCkyiIMRtu3PvXL25
+7t12766VCvaQSgwjiqQ/LfSgQEwKetHDHhpRPyojwiworAiRKOgJUXOtfgT9bP4M
+czjnzPnOzK28bF9uVvual7UX5r5dnnX3+oGUL/y+OdOocMfcooQalToxtomoKZJu
+pM42lZACIICIYKEJgTVIoaFyojJVowBTZlgWRIgDYGANBwkhGufCpNwyDKohYAkG
+GEQM6IpfsexYjUjEE3bMlbYG5BbDhq5ThhnhgGOMsFQGpSlDDAJGgyJoUCmsdZKe
+QobjelIEbEdi8hAZi/cP/n/OnRqzMziEFFkcGBRRFUMcRIRiJJBOsIYg84hJkYjp
+9UKyRaLejjpppdmvSDBtG8Lr1Rvkb0LA9YaJJxzXMZyoxGtdN54MeTp3S9wjNgge
++W0R4XbMlCVKRVokkrYTU0JQMg3X9jwhCWoQBGWNfkVsjtsJEbFjv2AK5PLuEWlp
+yRCxVAMTagIUNHWiEYMDqnOphCqWr6EyygCxKBSGbEqTXWkqwUjncmTN1BRvqE0x
+RwmpMqZeIy2Tdk1Md1MJoTTf6K0e78vK9U2cMM77XL7cyVP/fLkvvZN+6D+iRXBg
+9N65VX0filsr1iW31j+NfCla3rQxfPprwaa2/TXvizP5gfIFBz43de6qta90mLfO
+NJfNPFay8/hif9XVVO++cRUt70pWNG4vE4dGj5zo2dnvfz68LK+lKV41XJp5tLdv
+uJDPatvDbh6dveHktdedl/yDW2fs6D50qqyzy1V9pTc7bTPvauXwUGZV17MOdHv0
+2+FqkrNmasei+4/Zp8C2j5UrR3cPpdW22wtHrt2ZNqdkQn64vWO3vvBue/erJ9Xl
+xZ+XFRSCipxB0hLuK+/pvzyltXXke8HFBw2p/oqB6effhOefnXfhofXi8DzXXV98
+MFPlv7x6/BKYyo6uDSz9CVAfPMA=
+=7WXs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ermilov
+
+==================================================================
